@@ -12,6 +12,12 @@
   "devDependencies": {
     "jsonresume-theme-elegant": "^1.13.2",
     "jsonresume-theme-kendall": "^0.2.0",
+    "jsonresume-theme-kwan": "0.0.2",
+    "jsonresume-theme-modern": "0.0.18",
+    "jsonresume-theme-onepage": "0.0.3",
+    "jsonresume-theme-slick": "^0.1.16"
+  },
+  "dependencies": {
     "resume-cli": "^3.0.0"
   }
 }
