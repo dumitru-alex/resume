@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My Resume",
+  "scripts": {
+    "test": "resume test",
+    "dev": "resume serve --theme Kendall",
+    "build": "resume export resume --format pdf --theme Kendall"
+  },
+  "author": "Alex Dumitru",
+  "license": "MIT",
+  "devDependencies": {
+    "jsonresume-theme-elegant": "^1.13.2",
+    "jsonresume-theme-kendall": "^0.2.0",
+    "resume-cli": "^3.0.0"
+  }
+}

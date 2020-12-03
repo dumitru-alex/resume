@@ -1,0 +1,169 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Alexandru-Paul Dumitru",
+    "label": "Software Developer",
+    "image": "",
+    "email": "dumitru.alex0@gmail.com",
+    "phone": "(+420) 730-612-047",
+    "summary": "Avid learner who likes to discover new technologies and try them out. This led to accumulating significant knowledge in server administration and software development. Love to collect digital badges (15 and counting) and currently pursuing AWS certifications.",
+    "location": {
+      "city": "Prague",
+      "region": "Czech Republic"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alexandru-paul-dumitru",
+        "url": "https://www.linkedin.com/in/alexandru-paul-dumitru"
+      },
+      {
+        "network": "GitHub",
+        "username": "alexandru-dumitru",
+        "url": "https://github.com/alexandru-dumitru"
+      },
+      {
+        "network": "Medium",
+        "username": "dumitru.alex0",
+        "url": "https://medium.com/@dumitru.alex0"
+      },
+      {
+        "network": "Acclaim (digital badge collection)",
+        "username": "alexandru-dumitru",
+        "url": "https://www.youracclaim.com/users/alexandru-dumitru/badges"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Broadcom",
+      "location": "Prague, CZ",
+      "description": "Mainframe Division",
+      "position": "R&D Software Engineer",
+      "url": "https://www.broadcom.com/products/mainframe",
+      "startDate": "2018-01-01",
+      "endDate": "2021-01-31",
+      "summary": "The knowledge accumulated while working on Mainframes allowed me to move my career forward, and joined Broadcom as a software developer. I currently work in an Agile development team on plug-ins and Visual Studio Code extensions for mainframe developers. I also leverage my existing mainframe knowledge to help guide the team’s plans and architecture.",
+      "highlights": [
+        "Development and delivery of several VS Code extensions and Zowe CLI core functionalities and plug-ins",
+        "Contribution to Open Source Projects: Open Mainframe - Zowe (https://www.zowe.org/) and Eclipse - Che4z (https://projects.eclipse.org/proposals/eclipse-che4z)",
+        "Zowe Explorer scrum member. Previously Zowe CLI scrum member",
+        "2nd place Zowe Broadcom Hackathon 2019 - Project: Web Application for “all things” mainframe - modern approach to working with the Mainframe having a wide range of services easily available in a user friendly web UI.",
+        "Speaker: Mainframe Technical Exchange - Prague 2019 - Zowe Lab: Jenkins CI/CD intro with Zowe CLI",
+        "Speaker: GSE UK - UK 2019 - DevOps using Zowe - Deep Dive",
+        "Trainer: Intro to Python. Audience: Internal (Broadcom) + External (PyLadies Prague)",
+        "Trainer/Presenter: Zowe CLI and VS Code Extensions for internal and external developers/stakeholders"
+        ]
+    },
+    {
+      "name": "IBM",
+      "location": "Brno, CZ",
+      "description": "Mainframe Division",
+      "position": "z/Systems Programmer",
+      "url": "https://www.ibm.com/cz-en",
+      "startDate": "2017-01-01",
+      "endDate": "2017-12-31",
+      "summary": "Expanded my system management skills into the area of Mainframe platform. I had the opportunity to learn and practice on various operating systems such as z/VM, z/VSE and z/Linux.",
+      "highlights": [
+        "I was part of the team that successfully performed a z/VM system upgrade. I worked closely with external parties to prepare the system and also did various checks after the fact."
+        ]
+    },
+    {
+      "name": "IBM",
+      "location": "Brno, CZ",
+      "description": "Mainframe Division",
+      "position": "OpenVMS Systems Administrator",
+      "url": "https://www.ibm.com/cz-en",
+      "startDate": "2012-12-01",
+      "endDate": "2016-12-31",
+      "summary": "I started my IT career as an OpenVMS systems administrator. In this role I managed VAX, Alpha and Itanium servers for several clients across the globe (NA, EMEA, APAC) and was given the opportunity to learn all the facets of server administration.",
+      "highlights": [
+        "Trainer: Project - IBM Critical and Niche Skill Development Program for OpenVMS. This project aimed to ensure an organized knowledge share process for OpenVMS skills.",
+        "Redesigned and centralized daily system checks with improved automation scripts. Helped drastically reduce time and manpower needed for these actions.",
+        "Certification: Systems Administrator HP OpenVMS v8.",
+        "Helped interview and train for junior positions in the team.",
+        "IBM Mentor (https://www.youracclaim.com/badges/eb79bbc2-0e99-4f02-b07e-89517f36475b)",
+        "IBM Recognized Teacher/Educator (https://www.youracclaim.com/badges/685f46c4-7ffa-4f75-bb36-5b3025bf9555)"
+        ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Andrei Saguna University",
+      "url": "https://andreisaguna.ro/",
+      "area": "Business Management and Accounting",
+      "startDate": "2010-09-01",
+      "endDate": "2012-07-01"
+    },
+    {
+      "institution": "Ovidius University",
+      "url": "https://constructii.univ-ovidius.ro/",
+      "area": "Civil Engineering",
+      "startDate": "2006-09-01",
+      "endDate": "2009-07-01"
+    },
+    {
+      "institution": "Tomis Technical High School",
+      "url": "https://liceultehnologictomis.ro/",
+      "area": "Civil Engineering (Basics)",
+      "startDate": "2002-09-01",
+      "endDate": "2006-07-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "keywords": [
+        "NodeJS",
+        "TypeScript",
+        "Javascript",
+        "Python",
+        "Mocha",
+        "Jest",
+        "React",
+        "Express"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "GitHub",
+        "Jenkins",
+        "Docker",
+        "Coverity"
+      ]
+    },
+    {
+      "name": "Agile",
+      "keywords": [
+        "SAFe",
+        "Scrum",
+        "KANBAN"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Romanian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "C2"
+    },
+    {
+      "language": "French",
+      "fluency": "A2"
+    },
+    {
+      "language": "Czech",
+      "fluency": "A1"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "kendall"
+  }
+}
