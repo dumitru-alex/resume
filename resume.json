@@ -43,7 +43,7 @@
       "url": "https://www.broadcom.com/products/mainframe",
       "startDate": "2018-01-01",
       "endDate": "2021-01-31",
-      "summary": "The knowledge accumulated while working on Mainframes allowed me to move my career forward, and joined Broadcom as a software developer. I currently work in an Agile development team on plug-ins and Visual Studio Code extensions for mainframe developers. I also leverage my existing mainframe knowledge to help guide the team’s plans and architecture.",
+      "summary": "The knowledge accumulated while working on Mainframes allowed me to move my career forward, and joined Broadcom as a software developer. I currently work in an Agile development team on plug-ins and Visual Studio Code extensions for mainframe developers. We primarily use Typescript and Node.js to build our products, REST APIs to communicate with remote services, GitHub to manage our source code and Jenkins or GitHub Actions to drive our CI/CD pipelines. I also leverage my existing mainframe knowledge to help guide the team’s plans and architecture.",
       "highlights": [
         "Development and delivery of several VS Code extensions and Zowe CLI core functionalities and plug-ins",
         "Contribution to Open Source Projects: Open Mainframe - Zowe (https://www.zowe.org/) and Eclipse - Che4z (https://projects.eclipse.org/proposals/eclipse-che4z)",
